@@ -1,2 +1,2 @@
-# -Local-library
+# Local-library
 
